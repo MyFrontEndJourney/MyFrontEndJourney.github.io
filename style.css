@@ -9,6 +9,8 @@ h1 {
     font-weight: normal;
 }
 
-p {
+a {
     font-family: Verdana;
+    color: aquamarine;
+    font-size: 16px;
 }
