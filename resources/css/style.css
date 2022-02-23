@@ -1,5 +1,8 @@
 * {
     text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -17,7 +20,7 @@ h2 {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
-  color: white;
+  color: red;
 }
 
 h3 {
