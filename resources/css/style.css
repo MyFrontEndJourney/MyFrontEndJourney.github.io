@@ -9,6 +9,11 @@ body {
     background-color: black;
 }
 
+video {
+    height: auto;
+    width: auto;
+}
+
 h1 {
     font-family: Verdana;
     color: white;
